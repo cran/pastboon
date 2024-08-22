@@ -1,4 +1,4 @@
-c28d54f85d162b8de3e08e8ce36f32e2 *DESCRIPTION
+efb625cb455fa10274a3ba7e8e2657ea *DESCRIPTION
 9ad25618d4b8f6818b5688aded87f1bc *NAMESPACE
 11ef6698d3c998178ef7f8cc0443f63f *R/calc_convergence_time.R
 14f4c02d8fffb4bfc26ecc1614bdf5ef *R/calc_node_activities.R
@@ -13,11 +13,11 @@ ad8b1f4e90b1d0fe9e1ed5a736797f8d *man/calc_node_activities.Rd
 cb285b14fdedf066cbf068ae08ff5661 *man/extract_edges.Rd
 d22d4b16bf160551456b2df118e62243 *man/get_reached_states.Rd
 c9ad4718929d34bd9d85df4a9bd40365 *man/lac_operon_net.Rd
-de95409375977e4854885869f930d3c8 *man/pastboon-package.Rd
-101c00841f684fa932b639e05b3cc8b8 *src/BNp_simulation.c
+629369ae882b1fcf568af9812b874892 *man/pastboon-package.Rd
+456924296f5f98a7cb4c11f8911862f2 *src/BNp_simulation.c
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
-d272eb4676679e492ea1f8ebb1f4a58c *src/PEW_simulation.c
-19e21c8119d071b6eed9a0fcb8396c6a *src/SDDS_simulation.c
+30231def13ed829588c76e7ad0f32d04 *src/PEW_simulation.c
+addadc53534044c949f2e1676459b613 *src/SDDS_simulation.c
 f465f443ebf7badd951ecbda847aa394 *src/boolean_network.h
 0c8ce6044169a5a8976e2b8166dc69d5 *src/helper_functions.c
 a67c75d1098cd9b3aa887bc505b6ef4c *src/helper_functions.h
