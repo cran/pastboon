@@ -1,4 +1,4 @@
-6033ffd7232663fdc153f417cf365523 *DESCRIPTION
+4bc437ce47703494281dcc13984a9680 *DESCRIPTION
 9ad25618d4b8f6818b5688aded87f1bc *NAMESPACE
 20793797747ac02439da48b53bde3219 *R/calc_convergence_time.R
 14f4c02d8fffb4bfc26ecc1614bdf5ef *R/calc_node_activities.R
@@ -7,14 +7,14 @@
 2560a26217d65b60eeaf3d26020c2ad8 *R/get_reached_states.R
 e8d35691a76663ac29b769f7d9cf31c3 *R/helper_functions.R
 8b5373ef9d1dac25fb2d5a6d2bc326cb *data/lac_operon_net.rda
-2cf5870f26a8710891fccb8f62d5995f *data/myeloid_differentiation_net.rda
+70d2be5f8237fe41176a70f09e865462 *data/myeloid_diff_net.rda
 68c36a7e95119ef50c0e11895228a0fd *man/calc_convergence_time.Rd
 5c72b2a67cf067f94260717ed99a456f *man/calc_node_activities.Rd
 62868a7e276bf62ddc1d9e297bd83a41 *man/count_pairwise_trans.Rd
 cb285b14fdedf066cbf068ae08ff5661 *man/extract_edges.Rd
 d22d4b16bf160551456b2df118e62243 *man/get_reached_states.Rd
 cd4fb3b85dbd7823c3aa2bc33b6ecefe *man/lac_operon_net.Rd
-e274f0b2bae2461b07b1b3d6a535bd6e *man/myeloid_differentiation_net.Rd
+7619430610449b08a74dd025805a36f1 *man/myeloid_diff_net.Rd
 629369ae882b1fcf568af9812b874892 *man/pastboon-package.Rd
 456924296f5f98a7cb4c11f8911862f2 *src/BNp_simulation.c
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
